@@ -1,0 +1,263 @@
+[
+    [
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/d/d4/AC-8icon.png",
+            "text_content": "AC-8 Autocannon",
+            "tier": "S"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/4/46/EAT-17icon.png",
+            "text_content": "EAT-17 Expendable Anti-tank",
+            "tier": "S"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/2/2b/FLAM-40icon.png",
+            "text_content": "FLAM-40 Flamethrower",
+            "tier": "C"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/d/d5/LAS-98icon.png",
+            "text_content": "LAS-98 Laser Cannon",
+            "tier": "B"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/4/46/M-105icon.png",
+            "text_content": "M-105 Stalwart",
+            "tier": "C"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/8/8d/MG-43icon.png",
+            "text_content": "MG-43 Machine Gun",
+            "tier": "D"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/4/4a/ARC-3icon.png",
+            "text_content": "ARC-3 Arc Thrower",
+            "tier": "S"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/5/5d/GL-21icon.png",
+            "text_content": "GL-21 Grenade Launcher",
+            "tier": "A"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/b/b0/APW-1icon.png",
+            "text_content": "APW-1 Anti-Materiel Rifle",
+            "tier": "D"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/7/70/RS-422icon.png",
+            "text_content": "RS-422 Railgun",
+            "tier": "A"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/2/2a/GR-8icon.png",
+            "text_content": "GR-8 Recoilless Rifle",
+            "tier": "A"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/fc/FAF-14icon.png",
+            "text_content": "FAF-14 SPEAR Launcher",
+            "tier": "D"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/7/7e/LAS99Icon.png",
+            "text_content": "LAS-99 Quasar Cannon",
+            "tier": "u"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/f5/MG206Icon.png",
+            "text_content": "MG-206 Heavy Machine Gun",
+            "tier": "u"
+        }
+    ],
+    [
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/6/6d/OrbitalPrecisionicon.png",
+            "text_content": "Orbital Precision Strike",
+            "tier": "A"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/e/e6/OrbitalAirbursticon.png",
+            "text_content": "Orbital Airburst Strike",
+            "tier": "B"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/1/1a/Orbital120icon.png",
+            "text_content": "Orbital 120MM HE Barrage",
+            "tier": "C"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/fb/Orbital380icon.png",
+            "text_content": "Orbital 380MM HE Barrage",
+            "tier": "C"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/2/2b/OrbitalWalkingicon.png",
+            "text_content": "Orbital Walking Barrage",
+            "tier": "B"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/7/74/OrbitalLasericon.png",
+            "text_content": "Orbital Laser",
+            "tier": "S"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/e/e0/OrbitalRailcannonicon.png",
+            "text_content": "Orbital Railcannon Strike",
+            "tier": "S"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/2/2b/OrbitalGatlingicon.png",
+            "text_content": "Orbital Gatling Barrage",
+            "tier": "D"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/3/36/OrbitalGasicon.png",
+            "text_content": "Orbital Gas Strike",
+            "tier": "D"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/1/12/OrbitalEMSicon.png",
+            "text_content": "Orbital EMS Strike",
+            "tier": "A"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/e/ef/OrbitalSmokeicon.png",
+            "text_content": "Orbital Smoke Strike",
+            "tier": "F"
+        }
+    ],
+    [
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/4/4d/EagleStrafingicon.png",
+            "text_content": "Eagle Strafing Run",
+            "tier": "D"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/9/94/EagleAirstrikeicon.png",
+            "text_content": "Eagle Airstrike",
+            "tier": "S"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/7/79/EagleClusterbombicon.png",
+            "text_content": "Eagle Cluster Bomb",
+            "tier": "A"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/8/8d/EagleNapalmicon.png",
+            "text_content": "Eagle Napalm Strike",
+            "tier": "B"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/0/00/EagleSmokeicon.png",
+            "text_content": "Eagle Smoke Strike",
+            "tier": "F"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/f/fd/EagleRocketpodicon.png",
+            "text_content": "Eagle 110MM Rocket Pods",
+            "tier": "C"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/2/2d/Eagle500icon.png",
+            "text_content": "Eagle 500kg Bomb",
+            "tier": "S"
+        }
+    ],    [
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/a/ac/Teslaicon.png",
+            "text_content": "A/ARC-3 Tesla Tower",
+            "tier": "B"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/5/5e/Mortarsentryicon.png",
+            "text_content": "A/M-12 Mortar Sentry",
+            "tier": "B"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/2/27/EMSmortaricon.png",
+            "text_content": "A/M-23 EMS Mortar Sentry",
+            "tier": "S"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/8/88/MGsentryicon.png",
+            "text_content": "A/MG-43 Machine Gun Sentry",
+            "tier": "D"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/e/e3/Gatlingsentryicon.png",
+            "text_content": "A/G-16 Gatling Sentry",
+            "tier": "A"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/5/5d/Minefieldicon.png",
+            "text_content": "MD-6 Anti-Personnel Minefield",
+            "tier": "F"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/7/7f/Fireminefieldicon.png",
+            "text_content": "MD-I4 Incendiary Mines",
+            "tier": "F"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/c/c7/Shieldrelayicon.png",
+            "text_content": "FX-12 Shield Generator Relay",
+            "tier": "S"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/d/d0/HMGTurreticon.png",
+            "text_content": "E/MG-101 HMG Emplacement",
+            "tier": "C"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/b/ba/Autocannoasentryicon.png",
+            "text_content": "A/AC-8 Autocannon Sentry",
+            "tier": "A"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/3/3b/Missilesentryicon.png",
+            "text_content": "A/MLS-4X Rocket Sentry",
+            "tier": "D"
+        }
+    ],
+    [
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/c/c2/AX-LAS-5icon.png",
+            "text_content": "AX/LAS-5 \"Guard Dog\" Rover",
+            "tier": "A"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/a/ab/AX-AR-23icon.png",
+            "text_content": "AX/AR-23 \"Guard Dog\"",
+            "tier": "D"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/5/56/LIFT-850icon.png",
+            "text_content": "LIFT-850 Jump Pack",
+            "tier": "B"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/0/0f/B-1icon.png",
+            "text_content": "B-1 Supply Pack",
+            "tier": "S"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/e/ec/SH-32icon.png",
+            "text_content": "SH-32 Shield Generator Pack",
+            "tier": "S"
+        },
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/4/49/SH-20icon.png",
+            "text_content": "SH-20 Ballistic Shield Backpack",
+            "tier": "F"
+        }
+    ],
+    [
+        {
+            "image_url": "https://static.wikia.nocookie.net/helldivers_gamepedia/images/8/86/EXO45icon.png",
+            "text_content": "EXO-45 Patriot Exosuit",
+            "tier": "A"
+        }
+    ]
+]
